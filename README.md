@@ -15,7 +15,7 @@ This project explores customer purchasing behavior using the Instacart Online Gr
 - HTML export for notebook sharing
 
 ## Repository Structure
-- `01_Project_Management/` – Project brief and notes
+- `01_Project_Management/` – Project brief
 - `02_Scripts/` – Jupyter Notebook (`.ipynb`) and HTML export
 - `03_Visualizations/` – Exported charts and figures
 - `04_Sent to Client/` – Final Excel report
