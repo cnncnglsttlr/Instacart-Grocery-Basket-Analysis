@@ -1,4 +1,4 @@
-# Instacart Basket Analysis
+# Instacart Grocery Basket Analysis
 
 This project explores customer purchasing behavior using the Instacart Online Grocery Shopping dataset. The goal is to identify trends in customer habits, frequent products, and the timing of purchases using Python and Excel.
 
@@ -14,14 +14,15 @@ This project explores customer purchasing behavior using the Instacart Online Gr
 - Excel
 - HTML export for notebook sharing
 
-## Project Files
-- `Task_4.10_ Coding Etiquette & Excel Reporting_Canan Sattler_Part 01.ipynb` – Main notebook with analysis
-- `4.10_ Coding Etiquette & Excel Reporting_Canan Sattler_Part 01.html` – Exported HTML version
-- `A4_final_report_Canan Sattler.xlsx` – Final report prepared in Excel
+## Repository Structure
+- `01_Project_Management/` – Project brief and notes
+- `02_Scripts/` – Jupyter Notebook (`.ipynb`) and HTML export
+- `03_Visualizations/` – Exported charts and figures
+- `04_Sent to Client/` – Final Excel report
 
 ## Highlights
 - Cleaned and merged multiple datasets (orders, products, aisles, departments)
-- Created visualisations to show customer and product trends
+- Created visualizations to show customer and product trends
 - Delivered business insights in a professional Excel format
 
 ## Context
